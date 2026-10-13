@@ -287,3 +287,6 @@ For an offline first-run check in a separate checkout/data directory, set `PMS_E
 ## License and attribution
 
 MIT. The collection/scanning foundation is adapted from [0106ss/polymarket-market-scanner](https://github.com/0106ss/polymarket-market-scanner), upstream commit `587daca8548f6c737b4d642b49c9f000247361ab`. Original notices remain in [LICENSE](LICENSE); modifications are documented in [UPSTREAM.txt](UPSTREAM.txt). Other repository reviews are references rather than integrated trading SDKs. See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) and [release notes](CHANGELOG.md).
+
+## Contact
+Telegram: @teraus111
